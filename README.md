@@ -1,0 +1,1 @@
+# latihan_class_object.py
